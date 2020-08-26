@@ -14,4 +14,8 @@ Unsere Ideen:
 * Digitaler Schulstoff
 * Platform mit Lösungen
 
+
+
+Wir konzentrieren uns für die nächsten Wochen auf zwei gennante Ideen.
+
 ![](idea-light-bulb-clip-art-black-and-white-mtlenkbta.jpg)
