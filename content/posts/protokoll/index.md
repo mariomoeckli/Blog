@@ -3,7 +3,7 @@ title = "Protokoll"
 date = "2020-09-09"
 draft = false
 pinned = false
-image = "protokoll_schreiben_fotolia_66701911_subscription_xxl_butch_website-365x243.jpg"
+image = "photo-1513128034602-7814ccaddd4e.jpg"
 +++
 Wie erstellt man ein Protokoll?
 
