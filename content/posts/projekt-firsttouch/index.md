@@ -3,7 +3,7 @@ title = "Projekt FirstTouch"
 date = "2020-09-02"
 draft = false
 pinned = false
-image = "fussballfeld-201020127564.jpg"
+image = "football-3471402_960_720.jpg"
 +++
 Wir haben mit der Lehrkraft besprochen, welche zwei Themen wir definitiv umsetzen wollen. An erster Stelle steht das Projekt: **FirstTouch**
 
