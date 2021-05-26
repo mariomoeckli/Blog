@@ -1,12 +1,10 @@
 +++
-title = "Note 6!!!"
+title = "Abschluss"
 date = "2021-05-26"
 draft = false
 pinned = false
 +++
-
-
-26.05.2021 - wir wollen die Note 6.0!
+26.05.2021 - Abschluss
 
 Um diese zu erreichen, wollte Herr Jakob, dass wir den Prozess unserer App, bis sie im AppStore landet aufschreiben, um zu sehen, wann unser Produkt (FussballApp) kommerziell verwertbar ist und Marco sie sich anschauen kann.
 
